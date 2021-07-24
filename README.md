@@ -1,2 +1,3 @@
 # training-promise-chaining
-Created with CodeSandbox
+
+This is a training for chaining promises to its limits

@@ -1,5 +1,3 @@
-import "./styles.css";
-
 function chainResolve() {
   return Promise.resolve(["This is a promise resolved"])
     .then((message) => [...message, "I can access the value"])
